@@ -1,0 +1,5 @@
+GET https://newsapi.org/v2/everything?q=whales
+Authorization: e4459a33cef74ba79600b9084994142f
+
+### Rails App Articles Index
+GET  http://localhost:3000/articles?search=dogs
